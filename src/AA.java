@@ -3,9 +3,7 @@ public class AA {
 	
 	void test()
 	{
-
-//addind commentline
-		int a = 3,b=1;
+		int a = 3,b=1,c=4;
 		int j=0;
 		
 		j=a+b;
